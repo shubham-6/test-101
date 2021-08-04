@@ -1,0 +1,1 @@
+print("D-2 ki jai")
